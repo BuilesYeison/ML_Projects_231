@@ -1,12 +1,7 @@
+# Machine Learning final project - Music genre predictions
 
-<center> <img src="Images/iupb.png" width="500px"/> </center>
+## Created by
+Yeison Stiven Builes Uribe, Daniela Andre Urrego Tangarife & Juan Felipe Arbelaez Ceballos
 
-
-# Proyectos finales - Aprendizaje de máquinas, IUPB 2023-1
-
-Proyectos finales para la asignatura de Machine Learning, 2023-1 \
-Use esta plantilla para almacenar todos los códigos y material relacionado al proyecto final de materia. 
-
-
-**🗣️ Contact:** Ruben D. Fonnegra \
-**✉️ Email:** ruben.fonnegra@pascualbravo.edu.co
+## Objetive
+Create a model that allows to predict the musci genre of an image or audio file as an input.
